@@ -20,12 +20,12 @@ Note: It has a caching mechanism using Lodash's `memoize` function to store the 
 <p>You can download the zip file of the repository or use the following command in your terminal to clone the repository:</p>
 <pre><code class="language-bash">git clone https://github.com/blog-api-lodash</code></pre>
 <h3>Navigate to the project's root directory</h3>
-<p>Once you have downloaded or cloned the repository, navigate to the project's root directory. The project consists of 1 folders: server.</p>
+<p>Once you have downloaded or cloned the repository, navigate to the project's root directory. The project consists of 1 folder i.e server.</p>
 <h3>Install dependencies</h3>
-<p>Before starting the servers, make sure to install the dependencies by running the command:</p>
+<p>Before starting the server, make sure to install the dependencies by running the command:</p>
 <pre><code class="language-bash">npm install</code></pre>
 
-<h3>Start the servers</h3>
+<h3>Start the server</h3>
 <p>To start the servers, run the following commands:</p>
 <pre><code>nodemon server.js</code></pre>
 
